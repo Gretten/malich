@@ -6333,6 +6333,45 @@ header.fix-feature .menu-div.fixed {
     border-width: 5px
 }
 
+.comments-container {
+    width: 87%;
+    padding: 10px;
+    font-family: 'Tahoma';
+    border-top: 3px solid #000;
+}
+
+.vk-header-text {
+    background:#ddeffc;
+    margin: 5px;
+}
+
+.vk-comment-name {
+    font-weight: bold;
+    font-size: 16px;
+    color: #2c5777;
+    margin-left: 60px;
+}
+
+.vk-avatar {
+    float: left;
+    margin-right: 10px;
+}
+.vk-comment-text {
+    margin-left: 60px;
+    font-size: 19px;
+}
+
+.vk-comment-date {
+    margin-left: 60px;
+    font-size: 14px;
+    color: silver;
+    margin-bottom: 10px;
+}
+.vk-comment, .vk-comment-load {
+    border-bottom: 1px solid #dcf0ff;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
 footer {
     background-color: #303030;
     color: #fff
