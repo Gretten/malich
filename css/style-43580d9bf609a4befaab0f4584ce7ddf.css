@@ -244,8 +244,8 @@ main {
 }
 
 .main {
-    max-width: 1350px;
-    min-width: 1350px;
+    max-width: 1070px;
+    min-width: 1070px;
     margin: 0 auto;
     padding: 30px;
     box-sizing: border-box
@@ -723,7 +723,7 @@ input.b555tn {
 }
 
 .content-pushed {
-    min-width: 1350px;
+    min-width: 1070px;
     background-color: #fff;
     z-index: 99;
     -webkit-transition: transform .5s ease 0s;
@@ -5682,8 +5682,8 @@ header.fix-feature .menu-div.fixed {
 .menu-div-main {
     height: 100%;
     margin: 0 auto;
-    max-width: 1350px;
-    min-width: 1350px;
+    max-width: 1150px;
+    min-width: 1150;
     padding: 0 30px;
     box-sizing: border-box;
     position: relative;
@@ -5720,7 +5720,7 @@ header.fix-feature .menu-div.fixed {
 
 
 .menu-div-main-nav .menu-div-ul li:not(:last-child) {
-    margin-right: 0.45em
+    margin-right: 0.30em
 }
 
 .menu-div-main-nav .menu-div-ul li.special a {
@@ -5771,7 +5771,7 @@ header.fix-feature .menu-div.fixed {
 }
 
 .site-branding-trimming .menu-div-fixed-plashka {
-    width: 1350px;
+    width: 1070px;
     margin-left: auto;
     margin-right: auto
 }
@@ -5781,7 +5781,7 @@ header.fix-feature .menu-div.fixed {
 }
 
 .site-branding-trimming .menu-div {
-    width: 1350px;
+    width: 1070px;
     margin-left: auto;
     margin-right: auto
 }
@@ -5789,7 +5789,6 @@ header.fix-feature .menu-div.fixed {
 .menu-div-main-right {
     float: right;
     height: 100%;
-    margin-left: 200px;
 }
 
 .menu-div-main-right>div {
