@@ -5789,6 +5789,7 @@ header.fix-feature .menu-div.fixed {
 .menu-div-main-right {
     float: right;
     height: 100%;
+    margin-right: 70px;
 }
 
 .menu-div-main-right>div {
